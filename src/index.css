@@ -13,6 +13,9 @@
   margin: 5px;
 }
 
+.item-button {
+  margin: 5px;
+}
 .reminder-form {
   margin: 5px;
 }
@@ -24,4 +27,8 @@
 .delete-button {
   float: right;
   padding-left: 5px;
+}
+
+.reminder-form {
+  margin-bottom: 10px
 }
